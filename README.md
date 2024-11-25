@@ -1,6 +1,9 @@
 # Go Fortune
 fortune in go
 
+*ugly demo*
+![demo](./demo.gif)
+
 ## TOC
 - Installation
 
