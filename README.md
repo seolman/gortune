@@ -2,7 +2,7 @@
 fortune in go
 
 *ugly demo*
-![demo](./demo.gif)
+![demo](./assets/demo.gif)
 
 ## TOC
 - Installation
